@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋, I'm Anand Pandey
 
-<!--
-**AnandPandey/AnandPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Student  
+💻 Python & Flask Developer  
+📊 Interested in Data Visualization, Algorithms & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** Python, C, JavaScript
+- **Web:** HTML, CSS, Flask
+- **Database:** SQLite
+- **Tools:** Git, GitHub, Chart.js, Jupyter Notebook
+
+---
+
+### 📌 Projects
+- 💰 **FinTrack** – Personal finance tracker (Flask + Charts)
+- 🌦️ **Weather Insights** – Weather data visualization
+- 📊 **Graph Tutorial** – Graph algorithms using Python
+- 🧠 **AI Algorithms** – Semester-wise AI implementations
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: ap9012928@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+
+---
+
+⭐ *I love building practical projects and learning by doing.*
