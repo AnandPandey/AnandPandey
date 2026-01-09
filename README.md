@@ -25,9 +25,10 @@
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: ap9012928@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/anand-pandey-a22b28323
+### 🌐 Connect With Me
+- 🔗 [Portfolio Website](https://anandpandey.github.io/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/anand-pandey-a22b28323/)
+- 📧 [Email Me](mailto:ap9012928@gmail.com)
 
 ---
 
