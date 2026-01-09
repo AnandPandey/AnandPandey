@@ -7,24 +7,27 @@
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** Python, C, JavaScript
-- **Web:** HTML, CSS, Flask
-- **Database:** SQLite, MySQL
-- **Tools:** Git, GitHub, Chart.js, Jupyter Notebook
+- **Languages:** Python, Java, JavaScript, C
+- **Web:** HTML, CSS, Flask, React.js
+- **Database:** SQLite, MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Chart.js, Jupyter Notebook, Flourish, Selenium, Power BI, Matplotlib
 
 ---
 
 ### 📌 Projects
+- 🎓 **Eduport** – Full-stack platform for student project portfolios and recruiter/teacher management
 - 💰 **FinTrack** – Personal finance tracker (Flask + Charts)
-- 🌦️ **Weather Insights** – Weather data visualization
-- 📊 **Graph Tutorial** – Graph algorithms using Python
-- 🧠 **AI Algorithms** – Semester-wise AI implementations
+- ✅ **Taskify** – Task management web app for organizing daily tasks
+- 📊 **DSA Visualizer** – Interactive visualization of data structures & algorithms
+- 🌦️ **Weather Insights** – Weather data visualization platform
+- 📈 **Graph Tutorial** – Graph algorithms implemented in Python
+- 🧠 **AI Algorithms** – Semester-wise AI algorithm implementations
 
 ---
 
 ### 📫 Connect With Me
 - 📧 Email: ap9012928@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/anand-pandey-a22b28323
+- 💼 LinkedIn: linkedin.com/in/anand-pandey-a22b28323  
 
 ---
 
