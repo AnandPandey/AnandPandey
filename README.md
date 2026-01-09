@@ -9,7 +9,7 @@
 ### 🔧 Tech Stack
 - **Languages:** Python, C, JavaScript
 - **Web:** HTML, CSS, Flask
-- **Database:** SQLite
+- **Database:** SQLite, MySQL
 - **Tools:** Git, GitHub, Chart.js, Jupyter Notebook
 
 ---
@@ -24,7 +24,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: ap9012928@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/anand-pandey-a22b28323
 
 ---
 
