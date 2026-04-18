@@ -160,6 +160,6 @@ PING anand.dev — 3 packets transmitted
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=AnandPandey&color=00d9ff&style=flat-square&label=Profile+Views)]
+![Visitor Count](https://komarev.com/ghpvc/?username=AnandPandey&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
