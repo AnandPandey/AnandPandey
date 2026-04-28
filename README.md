@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/anand-pandey-a22b28323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anand-pandey-a22b28323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:su-24015@sitare.org"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AnandPandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 ---
 
 ## 🙋 About Me
@@ -149,9 +148,8 @@ PING anand.dev — 3 packets transmitted
 💼  Open to SWE Internships      [ ✅ ACTIVE ]
 ```
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anand-pandey-a22b28323/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-pandey-a22b28323/)
 [![Gmail](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:su-24015@sitare.org)
-
 </div>
 
 ---
