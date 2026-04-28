@@ -11,7 +11,7 @@
   <a href="mailto:su-24015@sitare.org"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AnandPandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
----
+
 
 ## 🙋 About Me
 
