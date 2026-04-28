@@ -12,7 +12,8 @@
   <a href="https://github.com/AnandPandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-</br> 
+---
+
 ## 🙋 About Me
 
 I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), building full-stack web applications and data-driven platforms across **Java and Python** ecosystems. I've shipped projects ranging from a scripting language interpreter to deployed full-stack platforms with role-based access control, NLP pipelines, and real-time dashboards.
