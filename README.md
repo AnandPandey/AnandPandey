@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Anand Pandey 👋</h1>
+<h1 align="center">Hey, I'm Anand Kumar Pandey 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
