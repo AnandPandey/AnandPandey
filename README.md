@@ -19,7 +19,7 @@
 I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), building full-stack web applications and data-driven platforms across **Java and Python** ecosystems. I've shipped projects ranging from a scripting language interpreter to deployed full-stack platforms with role-based access control, NLP pipelines, and real-time dashboards.
 
 - 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
-- 📊 **GPA: 7.85** | Strong foundation in DSA, OOP, DBMS, and Systems
+- 📊 **GPA: 8** | Strong foundation in DSA, OOP, DBMS, and Systems
 - 🔍 Currently focused on: backend engineering, system design, and interview prep
 - 💼 Open to **SWE Internships** — actively applying
 
